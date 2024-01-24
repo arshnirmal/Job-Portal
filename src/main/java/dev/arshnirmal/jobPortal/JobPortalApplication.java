@@ -1,13 +1,13 @@
-package dev.arshnirmal.jobportal;
+package dev.arshnirmal.jobPortal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JobportalApplication {
+public class JobPortalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JobportalApplication.class, args);
+		SpringApplication.run(JobPortalApplication.class, args);
 	}
 
 }

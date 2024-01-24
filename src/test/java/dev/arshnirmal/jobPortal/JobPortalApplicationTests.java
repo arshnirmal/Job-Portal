@@ -1,10 +1,10 @@
-package dev.arshnirmal.jobportal;
+package dev.arshnirmal.jobPortal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JobportalApplicationTests {
+class JobPortalApplicationTests {
 
 	@Test
 	void contextLoads() {
